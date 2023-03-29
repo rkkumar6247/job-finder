@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "job-finder",
-    "slug": "job-finder"
+    "slug": "job-finder",
+    "extra": {
+      "eas": {
+        "projectId": "3386a721-b97e-4a68-b3fd-c2fb4a170372"
+      }
+    },
+    "android": {
+      "package": "com.rkkumar6247.jobfinder"
+    }
   }
 }
